@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "realtimebd---iot": {
+      "hosting": {
+        "app": [
+          "realtimebd---iot"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "realtimebd---iot"
+  }
+}
