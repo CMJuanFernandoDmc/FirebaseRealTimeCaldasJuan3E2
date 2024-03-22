@@ -1,0 +1,7 @@
+{
+  "name": "FirebaseRealTime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
